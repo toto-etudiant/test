@@ -1,0 +1,4 @@
+Semaine 1:
+- plan de cours
+- rappel
+- tests unitaires
